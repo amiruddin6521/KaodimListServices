@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kaodim Services</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Events</string>
+</resources>
