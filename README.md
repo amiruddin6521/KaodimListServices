@@ -4,6 +4,7 @@ Kaodim Android Internship Assignment
 ## Challanges
 - Getting list of services API using Retrofit where i need to retrive an Object arrays in Object arrays.
 - Hard to handle data from API into recycleview where there need a header and content inside recycleview.
+- Cannot getting work on my stickyheader in recyclerview.
 
 ## Core Parts of Codes
 Core parts of coding to make this apps work is as below :-
