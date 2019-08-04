@@ -114,7 +114,7 @@ public class SectionAdapter extends StickyAdapter<RecyclerView.ViewHolder, Recyc
 This is the important methods of Adapter where :-
 - In the constructor of this adapter, i'm getting an arraylist with objects of the interface "Section".
 - This arraylist contains the objects of both HeaderModel and ItemModel.
-- With the arraylist i'm getting, it will set the header and content inside recycleview.
+- With the arraylist i'm getting, it will set the header and item inside recycleview.
 
 
 
